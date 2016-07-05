@@ -7,7 +7,9 @@ Checkout this repo, install dependencies, then start the gulp process with the f
 
 ```
 	> git clone
-	> cd TinderClone
+	> cd book-list
 	> npm install
 	> npm start
 ```
+
+Project done from Udemy course
